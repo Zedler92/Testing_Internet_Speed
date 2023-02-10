@@ -5,8 +5,8 @@ import time
 
 PROMISED_UP = 10
 PROMISED_DOWN = 150
-TWITTER_EMAIL = "511454576"
-TWITTER_PASSWORD = "Zadek123"
+TWITTER_EMAIL = "XXX"
+TWITTER_PASSWORD = "XXX"
 
 class InternetSpeedTwitterBot:
     def __init__(self):
